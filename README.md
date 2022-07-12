@@ -15,3 +15,5 @@ Repo: https://github.com/oven-sh/bun
   - [baojs](https://github.com/mattreid1/baojs):⚡️ A fast, minimalist web framework for the Bun JavaScript runtime
   - [fastify-edge](https://github.com/galvez/fastify-edge): Use Fastify idioms for writing Cloudflare Workers and Bun servers
   - [siopao](https://github.com/wobsoriano/siopao): A minimal routing library designed to sit on top of Bun's fast HTTP server.
+  - [action-setup-bun](https://github.com/antongolub/action-setup-bun): Setup GitHub Actions workflow with a specific version of Bun.
+  - [setup-bun](https://github.com/xHyroM/setup-bun): Set up your GitHub Actions workflow with a specific version of Bun
