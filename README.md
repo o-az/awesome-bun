@@ -9,8 +9,9 @@
 </a>
 </div>
 
-**Official website:** <a href="https://bun.sh" target="_blank" rel="noopener noreferrer">https://bun.sh</a>
-**Official repository:** <a href="https://github.com/oven-sh/bun" target="_blank" rel="noopener noreferrer">https://github.com/oven-sh/bun</a>
+<div align="center">
+Official links: <a href="https://bun.sh" target="_blank" rel="noopener noreferrer">https://bun.sh</a> – <a href="https://github.com/oven-sh/bun" target="_blank" rel="noopener noreferrer">https://github.com/oven-sh/bun</a>
+</div>
 
 <!-- TOC -->
 
@@ -50,9 +51,7 @@
 - ##### CLI
 
   - [Shumai](https://github.com/AltriusRS/Shumai): A delicious new outlook on command line argument handling.
-
 - ##### Developer Tools
-
   - [vscode-remote-try-bun](https://github.com/kosalanuwan/vscode-remote-try-bun): Bun, all-in-one JS runtime starter project for trying out without having to install locally.
 
 - ##### Miscalaneous
