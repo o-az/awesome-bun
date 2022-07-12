@@ -18,3 +18,4 @@ Repo: https://github.com/oven-sh/bun
   - [action-setup-bun](https://github.com/antongolub/action-setup-bun): Setup GitHub Actions workflow with a specific version of Bun.
   - [setup-bun](https://github.com/xHyroM/setup-bun): Set up your GitHub Actions workflow with a specific version of Bun
   - [duckdb](https://github.com/evanwashere/duckdb): 🦆 fast duckdb bindings for bun runtime
+  - [hyperbun](https://github.com/Eckhardt-D/hyperbun): A simple HTTP routing library built on top of Bun's built in HTTP solution.
