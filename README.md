@@ -1,8 +1,16 @@
+---
+title: null
+---
+
+<head>
+  <link rel="shortcut icon" type="favicon/x-icon" href="favicon.ico">
+</head>
+
 <div align="center">
 
 <h1>Awesome <a href="https://bun.sh" target="_blank" rel="noopener noreferrer">Bun</a></h1>
 
-<p>A list of awesome <a href="https://bun.sh" target="_blank" rel="noopener noreferrer">Bun</a> tools and resources.</p>
+<h5>A list of awesome <a href="https://bun.sh" target="_blank" rel="noopener noreferrer">Bun</a> tools and resources.</h5>
 
 <a href="" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/oven-sh/bun/main/packages/bun-landing/public/logo.svg" height="250" />
@@ -12,12 +20,14 @@
 <div align="center">
 <h5>Official links</h5>
 <a href="https://bun.sh" target="_blank" rel="noopener noreferrer" style="font-weight:500">bun.sh</a>
-
+<br/>
 <a href="https://github.com/oven-sh/bun" target="_blank" rel="noopener noreferrer" style="font-weight:500">github.com/oven-sh/bun</a>
 </div>
 
 <!-- TOC -->
-****
+
+---
+
 <details>
 <summary style="font-size:16px; font-weight: bold">Table of Contents</summary>
   <ul>
@@ -54,7 +64,9 @@
 - #### CLI
 
   - [Shumai](https://github.com/AltriusRS/Shumai): A delicious new outlook on command line argument handling.
+
 - #### Developer Tools
+
   - [vscode-remote-try-bun](https://github.com/kosalanuwan/vscode-remote-try-bun): Bun, all-in-one JS runtime starter project for trying out without having to install locally.
 
 - #### Miscalaneous
