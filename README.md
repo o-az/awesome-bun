@@ -71,8 +71,8 @@
 Follow
 </h2>
 
-[Jarred Sumner](https://twitter.com/jarredsumner) – (Supreme Chef – Creator of Bun)
-
+<p><a href="https://twitter.com/jarredsumner" target="_blank" rel="noopener noreferrer" style="font-weight:500">twitter.com/jarredsumner</a>  – (Supreme Chef – Creator of Bun)
+</p>
 </div>
 
 #### Contribute
