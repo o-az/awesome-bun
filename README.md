@@ -33,6 +33,10 @@
 
 ### List
 
+- #### Official Packages
+  - [bun](https://github.com/oven-sh/bun): bun bun bun
+  - [bun-types](https://github.com/oven-sh/bun) TypeScript types for bun (`bun add -d bun-types`).
+
 - #### Web Frameworks
 
   - [baojs](https://github.com/mattreid1/baojs):⚡️ A fast, minimalist web framework for the Bun JavaScript runtime
