@@ -2,7 +2,7 @@
 
 <h1>Awesome <a href="https://bun.sh" target="_blank" rel="noopener noreferrer">Bun</a></h1>
 
-<h5>A list of awesome <a href="https://bun.sh" target="_blank" rel="noopener noreferrer">Bun</a> tools and resources.</h5>
+<h3>A list of awesome <a href="https://bun.sh" target="_blank" rel="noopener noreferrer">Bun</a> tools and resources.</h3>
 
 <a href="" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/oven-sh/bun/main/packages/bun-landing/public/logo.svg" height="250" />
@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<h5>Official links</h5>
+<h4>Official links</h4>
 <a href="https://bun.sh" target="_blank" rel="noopener noreferrer" style="font-weight:500">bun.sh</a>
 <br/>
 <a href="https://github.com/oven-sh/bun" target="_blank" rel="noopener noreferrer" style="font-weight:500">github.com/oven-sh/bun</a>
@@ -67,13 +67,14 @@
 <!-- END CONTENT -->
 
 <div align="center">
-<h3>
+<h2 id="follow">
 Follow
 </h2>
 
 [Jarred Sumner](https://twitter.com/jarredsumner) – (Supreme Chef – Creator of Bun)
 
 </div>
+
 #### Contribute
 
 [Contributions of any kind welcome](contributing.md)
