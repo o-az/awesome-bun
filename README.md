@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Awesome <a href="https://bun.sh" target="_blank" rel="noopener noreferrer">Bun</a></h1>
+<h1><a href="https://github.com/o-az/awesome-bun" target="_blank" rel="noopener noreferrer">Awesome Bun</a></h1>
 
 <h3>A list of awesome <a href="https://bun.sh" target="_blank" rel="noopener noreferrer">Bun</a> tools and resources.</h3>
 
