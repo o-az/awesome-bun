@@ -1,11 +1,3 @@
----
-title: null
----
-
-<head>
-  <link rel="shortcut icon" type="favicon/x-icon" href="favicon.ico">
-</head>
-
 <div align="center">
 
 <h1>Awesome <a href="https://bun.sh" target="_blank" rel="noopener noreferrer">Bun</a></h1>
