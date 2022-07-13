@@ -34,6 +34,7 @@
 ### List
 
 - #### Official Packages
+
   - [bun](https://github.com/oven-sh/bun): bun bun bun
   - [bun-types](https://github.com/oven-sh/bun) TypeScript types for bun (`bun add -d bun-types`).
 
@@ -61,12 +62,17 @@
 
   - [Shumai](https://github.com/AltriusRS/Shumai): A delicious new outlook on command line argument handling.
 
+- #### Utilities
+
+  - [bun-utilities](https://github.com/xHyroM/bun-utilities): Bindings for useful functions for bun.
+
 - #### Developer Tools
 
   - [vscode-remote-try-bun](https://github.com/kosalanuwan/vscode-remote-try-bun): Bun, all-in-one JS runtime starter project for trying out without having to install locally.
 
 - #### Miscalaneous
   - [fable-bun](https://github.com/AngelMunoz/fable-bun): A small experimental repository for bun.sh.
+  - [biscuit](https://github.com/oasisjs/biscuit): A brand new bleeding edge non bloated Discord library (based on Discordeno!)
 
 <!-- END CONTENT -->
 
